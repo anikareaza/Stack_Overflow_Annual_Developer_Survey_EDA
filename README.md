@@ -1,1 +1,1 @@
-Performed comprehensive exploratory data analysis (EDA) using Python on Stack Overflow Annual Developer Survey 2022.
+Performed comprehensive exploratory data analysis (EDA) using Python on Stack Overflow Annual Developer Survey 2022. Additionally, I've compiled a detailed report summarizing the findings, trends, and correlations observed during the analysis. 
